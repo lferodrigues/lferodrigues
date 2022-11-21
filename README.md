@@ -5,7 +5,7 @@
 - 👨‍🎓 Graduado em Analises e Desenvolvimento de Sistemas
 - 👨‍💻 Dev Junior em React Native
 - 📚 Estou estudando Python e Cibersegurança
-- 👨‍🏫 Professor de informatica basica e Desenvolvimento de sistemas 
+- 👨‍🏫 Professor de Informatica básica e Desenvolvimento de sistemas 
 - ⚖ Perito Judicial em analises de sistemas - TJMG
 - 👨‍💼 Membro do comitê público da ANPPD
 
