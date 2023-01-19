@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Felipe Rodrigues, especializando em Cibersegurança e I.A, seja bem-vindo(a)!😁
 
 ##
-- 📖 Mestrando em Ciências da Computação com enfase em Inteligência computacional 
+- 📖 Mestrando em Ciências da Computação com enfase em Inteligência Computacional 
 - 👨‍🎓 Graduado em Analises e Desenvolvimento de Sistemas
 - 👨‍💻 Dev Junior em React Native
 - 📚 Estou estudando Python e Cibersegurança
