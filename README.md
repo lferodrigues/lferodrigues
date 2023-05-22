@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Felipe Rodrigues, especializando em Cibersegurança e I.A, seja bem-vindo(a)!😁
 
 ##
-- 📖 Mestrando em Ciências da Computação com enfase em Inteligência Computacional - UFJF 
+- 📖 Mestrando em Ciências da Computação com enfase em Segurança da Informação - UFJF 
 - 🤖 Especializando em Inteligência Artificial - UFRR
 - 🕵️ Pós Graduado em Computação forense - Unopar
 - 👨‍🎓 Graduado em Analises e Desenvolvimento de Sistemas - Estácio Juiz de Fora
