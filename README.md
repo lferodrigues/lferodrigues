@@ -9,7 +9,7 @@
 - 👨‍💻 Dev Junior em React Native
 - 👨‍🏫 Professor de Informatica básica e Desenvolvimento de sistemas 
 - ⚖ Perito Judicial em analises de sistemas - TJMG
-- 👨‍💼 Membro do comitê público da ANPPD
+- 👨‍💼 Curriculum Lattes: http://lattes.cnpq.br/2122439276634834
 
  ##
 
