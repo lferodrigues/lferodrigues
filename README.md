@@ -3,7 +3,6 @@
 
 ##
 - 📖 Mestrando em Ciências da Computação  - UFJF 
-- 🤖 Especializando em Inteligência Artificial - UFRR
 - 🕵️ Pós Graduado em Computação forense - Unopar
 - 👨‍🎓 Graduado em Analises e Desenvolvimento de Sistemas - Estácio Juiz de Fora
 - 👨‍💻 Dev Junior em React Native
