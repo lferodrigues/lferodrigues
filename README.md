@@ -2,6 +2,7 @@
 ### Olá! Eu sou o Felipe Rodrigues, especializando em Cibersegurança e I.A, seja bem-vindo(a)!😁
 
 ##
+- 🖥 Segurança da Informação - UniaSP
 - 👷🏿‍♂️ Engenheiro de Segurança do Trabalho - UniaSP
 - 📖 Mestrando em Ciências da Computação  - UFJF 
 - 🕵️ Pós Graduado em Computação forense - Unopar
